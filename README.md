@@ -144,7 +144,7 @@ Customer churn is one of the most critical challenges in the telecom industry. T
 
 1. **Clone or download** this repository:
    ```bash
-   git clone https://github.com/your-username/telecom-churn-dashboard.git
+   https://github.com/nyashas-2004/Telecommunication_Customer_Churn_Dashboard.git
    ```
 
 2. **Open** the file `telecommunication_churn_dashboard.xlsx` in **Microsoft Excel 2016 or later** (Excel 365 recommended for full slicer support).
