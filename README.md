@@ -87,7 +87,6 @@ Customer churn is one of the most critical challenges in the telecom industry. T
 | `Revenue` | Revenue breakdown and charges trend analysis |
 | `Service` | Service adoption rates and their churn correlation |
 | `Churn` | Deep-dive churn analysis by multiple dimensions |
-| `Sheet1` | Supplementary working sheet |
 
 ---
 
@@ -139,6 +138,25 @@ Customer churn is one of the most critical challenges in the telecom industry. T
 - ✅ **Color-Coded Visuals** for quick pattern recognition and executive reporting
 
 ---
+
+## 📸 Dashboard Preview          👈 PASTE STARTS HERE
+
+### 🖥️ Main Dashboard
+![Dashboard Overview](assets/dashboard_overview.png)
+
+### 👥 Customer Analysis
+![Customer Analysis](assets/customer_analysis.png)
+
+### 💰 Revenue Breakdown
+![Revenue Breakdown](assets/revenue_breakdown.png)
+
+### 🌐 Service Analysis
+![Service Analysis](assets/service_analysis.png)
+
+### 📉 Churn Analysis
+![Churn Analysis](assets/churn_analysis.png)
+
+--- 
 
 ## 🚀 How to Use
 
