@@ -139,7 +139,7 @@ Customer churn is one of the most critical challenges in the telecom industry. T
 
 ---
 
-## 📸 Dashboard Preview          👈 PASTE STARTS HERE
+## 📸 Dashboard Preview          
 
 ### 🖥️ Main Dashboard
 ![Dashboard Overview](assets/dashboard_overview.png)
